@@ -80,4 +80,4 @@ GROUP BY 1
 ORDER BY 1
 ## max power consumption occurred in the months of July and August across the zones
 ## This was attributed by the main Morrocco holidays which occurred from June to August
-
+## sj
